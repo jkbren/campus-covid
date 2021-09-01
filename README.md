@@ -9,10 +9,8 @@ To my knowledge, this has turned into the largest dataset with time series of ca
 
 
 ## Limitations
-There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here. Fourth, assigning any sort of causation to these measures is very tricky and all of the preliminary results below should be interpreted as associations or correlations.
+There are several. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here. Fourth, assigning any sort of causation to these measures is very tricky and all of the preliminary results below should be interpreted as associations or correlations.
 
-## Main dataasets
-1. []
 
 ## Notebooks
 1. [Automate the creation of individual Google Sheets](https://github.com/campus-covid/blob/main/code/create_google_sheets.ipynb)
@@ -44,7 +42,7 @@ This code is written in [Python 3.x](https://www.python.org) and uses the follow
 
 
 ## Data and findings
-To download the csv of the full dataset, see data/ihe_testing_casecounts_fall2020.csv. This dataset was built by heavily relying on a Python to Google sheets interface. I learned about this tool [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html). To recreate the dataset entirely, you will need to go through the steps to enable API acccess [here](https://gspread.readthedocs.io/en/latest/oauth2.html#enable-api-access).
+To download the csv of the full dataset, see data folder. This dataset was built by heavily relying on a Python to Google sheets interface. I learned about this tool [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html). To recreate the dataset entirely, you will need to go through the steps to enable API acccess [here](https://gspread.readthedocs.io/en/latest/oauth2.html#enable-api-access).
 
 State-by-state Google sheets (with separate tabs for each school) and a [Reference](https://docs.google.com/spreadsheets/d/1GMu4fful47nUIFlwl293cPqPGG0XX3uIl0zno-bTJbY/edit?usp=sharing) Google sheet can be found in this drive [here](https://drive.google.com/drive/folders/19MLhkjQl3qhlGSmwD2MVbqOE_7ZaID0j?usp=sharing).
 
