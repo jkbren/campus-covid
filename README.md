@@ -13,11 +13,11 @@ There are several. First---because this dataset was formed to address the lack o
 
 
 ## Notebooks
-1. [Automate the creation of individual Google Sheets](https://github.com/campus-covid/blob/main/code/create_google_sheets.ipynb)
-2. [Pull data from Google Sheets](https://github.com/campus-covid/blob/main/code/retrieve_data_from_google_sheets.ipynb)
+1. [Automate the creation of individual Google Sheets](https://github.com/jkbren/campus-covid/blob/main/code/create_google_sheets.ipynb)
+2. [Pull data from Google Sheets](https://github.com/jkbren/campus-covid/blob/main/code/retrieve_data_from_google_sheets.ipynb)
 3. [Campus COVID dataset map](https://github.com/jkbren/campus-covid/blob/main/code/campus-covid_map.ipynb)
-4. [Set up matching procedure](https://github.com/campus-covid/blob/main/code/matching-jsd_minimization.ipynb)
-5. [Main figures](https://github.com/campus-covid/blob/main/code/main-figures.ipynb)
+4. [Set up matching procedure](https://github.com/jkbren/campus-covid/blob/main/code/matching-jsd_minimization.ipynb)
+5. [Main figures](https://github.com/jkbren/campus-covid/blob/main/code/main-figures.ipynb)
 6. [Massachusetts analysis](https://github.com/jkbren/campus-covid/blob/main/code/analysis-massachusetts.ipynb)
 7. [Case study: UMass Amherst](https://github.com/jkbren/campus-covid/blob/main/code/case-study-umass.ipynb)
 8. [Statistical controls - negative binomial regression](https://github.com/jkbren/campus-covid/blob/main/code/regression-negativebinomial.ipynb)
