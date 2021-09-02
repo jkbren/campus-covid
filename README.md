@@ -16,13 +16,14 @@ Because this dataset was formed to address the lack of nationwide (or in most ca
 1. [Automate the creation of individual Google Sheets](https://github.com/jkbren/campus-covid/blob/main/code/create_google_sheets.ipynb)
 2. [Pull data from Google Sheets](https://github.com/jkbren/campus-covid/blob/main/code/retrieve_data_from_google_sheets.ipynb)
 3. [Campus COVID dataset map](https://github.com/jkbren/campus-covid/blob/main/code/campus-covid_map.ipynb)
-4. [Set up matching procedure](https://github.com/jkbren/campus-covid/blob/main/code/matching-jsd_minimization.ipynb)
-5. [Main figures](https://github.com/jkbren/campus-covid/blob/main/code/main-figures.ipynb)
-6. [Massachusetts analysis](https://github.com/jkbren/campus-covid/blob/main/code/analysis-massachusetts.ipynb)
-7. [Case study: UMass Amherst](https://github.com/jkbren/campus-covid/blob/main/code/case-study-umass.ipynb)
-8. [Statistical controls - negative binomial regression](https://github.com/jkbren/campus-covid/blob/main/code/regression-negativebinomial.ipynb)
-9. [Misc: Pull county tesing data from CDC](https://github.com/jkbren/campus-covid/blob/main/code/county-level-diagnostic-testing-volume-cdc.ipynb)
-10. [Misc: NYT case count data](https://github.com/jkbren/campus-covid/blob/main/code/nyt-college-data.ipynb)
+4. [Explore data from different colleges in the dataset](https://github.com/jkbren/campus-covid/blob/main/code/campus-covid-data_exploration.ipynb)
+5. [Set up matching procedure](https://github.com/jkbren/campus-covid/blob/main/code/matching-jsd_minimization.ipynb)
+6. [Main figures](https://github.com/jkbren/campus-covid/blob/main/code/main-figures.ipynb)
+7. [Massachusetts analysis](https://github.com/jkbren/campus-covid/blob/main/code/analysis-massachusetts.ipynb)
+8. [Case study: UMass Amherst](https://github.com/jkbren/campus-covid/blob/main/code/case-study-umass.ipynb)
+9. [Statistical controls - negative binomial regression](https://github.com/jkbren/campus-covid/blob/main/code/regression-negativebinomial.ipynb)
+10. [Misc: Pull county tesing data from CDC](https://github.com/jkbren/campus-covid/blob/main/code/county-level-diagnostic-testing-volume-cdc.ipynb)
+11. [Misc: NYT case count data](https://github.com/jkbren/campus-covid/blob/main/code/nyt-college-data.ipynb)
 
 ## Other datasets
 1. data/nyt_data_asof_2021-05-26.csv - [New York Times case counts](https://www.nytimes.com/interactive/2021/us/college-covid-tracker.html)
@@ -90,11 +91,28 @@ Bibtex:
 * [New York Times data](https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html)
 * [NPR article about testing](https://www.npr.org/2020/10/06/919159473/even-in-covid-hot-spots-many-colleges-arent-aggressively-testing-students)
 * [College Crisis Initiative](https://collegecrisis.shinyapps.io/dashboard/)
-* [Many Louisiana colleges](https://analytics.la.gov/t/LDH/views/IHE_sup/Dashboard1?%3AshowAppBanner=false&%3Adisplay_count=n&%3AshowVizHome=n&%3Aorigin=viz_share_link&%3AisGuestRedirectFromVizportal=y&%3Aembed=y)
-* [Arkansas schools](https://www.arkansasonline.com/schools/)
-* [New York schools](https://www.suny.edu/covid19-tracker/)
-* [Minnesota State](https://www.minnstate.edu/coronavirus/index.html)
-* [Misc. list](https://www.ibhe.org/Institution_COVID-19.asp#1)
-* [Florida schools](http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/school-reports/)
-* [Montana schools](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics)
-* [New England schools](https://nebhe.org/covid-19-tracker/)
+
+
+# Example time series of testing and case counts:
+
+<p align="center">
+<img src="figs/pngs/example_Northeastern.png" alt="county_level" width="75%"/>
+</p>
+
+<p align="center">
+<img src="figs/pngs/example_UofA.png" alt="county_level" width="75%"/>
+</p>
+
+<p align="center">
+<img src="figs/pngs/example_NCState.png" alt="county_level" width="75%"/>
+</p>
+
+<p align="center">
+<img src="figs/pngs/example_UCLA.png" alt="county_level" width="75%"/>
+</p>
+
+<p align="center">
+<img src="figs/pngs/example_UIUC.png" alt="county_level" width="75%"/>
+</p>
+
+Find these and many more in the code/campus-covid-data_exploration.ipynb file, or in the figs/pngs/ file.
