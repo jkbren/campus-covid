@@ -3,3 +3,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 */.DS_Store/*
+
+data/campus_covid_status.csv
