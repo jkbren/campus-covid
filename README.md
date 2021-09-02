@@ -17,7 +17,6 @@ Because this dataset was formed to address the lack of nationwide (or in most ca
 2. [Pull data from Google Sheets](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/retrieve_data_from_google_sheets.ipynb)
 3. [Campus COVID dataset map](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/campus-covid_map.ipynb)
 4. [Explore data from different colleges in the dataset](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/campus-covid-data_exploration.ipynb)
-https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/campus-covid-data_exploration.ipynb
 5. [Set up matching procedure](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/matching-jsd_minimization.ipynb)
 6. [Main figures](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/main-figures.ipynb)
 7. [Massachusetts analysis](https://nbviewer.jupyter.org/github/jkbren/campus-covid/blob/main/code/analysis-massachusetts.ipynb)
