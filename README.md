@@ -1,4 +1,7 @@
 # Campus COVID Data
+
+[![DOI](https://zenodo.org/badge/402199438.svg)](https://zenodo.org/badge/latestdoi/402199438)
+
 Institutes of higher education (IHEs) can play a large role in mitigating the spread of COVD-19. There is not a national repository for recording the amount of testing and case counts for individuals affiliated with universities, and as such, many administrators and local policymakers are not equipped with the most up-to-date data to inform their decision-making. This dataset is designed to be a stopgap to this problem.
 
 In creating this dataset, we primarily relied on IHEs' "COVID Dashboards", which vary in their sophistication and informativeness. More often than not, they report the number of student/faculty/staff cases affiliated with the IHE. If a college or university has put in place a regular testing protocol, they often report the daily or weekly number of tests that have been conducted as well. These data help us piece together an ever-incomplete picture of the impact / role that IHEs have on the broader community and taken together should inform decision-making at the local and institutional levels (i.e. whether to allow students back for in-person classes, hybrid classes, online only, etc.).
