@@ -81,11 +81,12 @@ Bibtex:
 ```text
 @article{Klein2021campus,
     title = {{Higher education responses to COVID-19 in the United States: Evidence for the impacts of university policy}},
-    author = {Klein, Brennan and Generous, Nicholas and McCabe, Stefan and Bhadricha, Zarana and Gunashekar, Rishab and Kori, Preeti and Li, Bodian and Green, Jon and Chinazzi, Matteo and Lazer, David and Marsicano, Christopher R. and Scarpino, Samuel V. and Vespignani, Alessandro}
+    author = {Klein, Brennan and Generous, Nicholas and Chinazzi, Matteo and Bhadricha, Zarana and Gunashekar, Rishab and Kori, Preeti and Li, Bodian and McCabe, Stefan and Green, Jon and Lazer, David and Marsicano, Christopher R. and Scarpino, Samuel V. and Vespignani, Alessandro},
     journal = {medRxiv},
     year = {2021},
-    pages = {1--30},
+    pages = {1--31},
     volume = {2021},
+    doi = {10.1101/2021.10.07.21264419}
 }
 ```
 
