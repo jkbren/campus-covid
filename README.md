@@ -66,13 +66,6 @@ The main finding of this work so far concerns campus testing from IHEs.
 
 - - - -
 
-<p align="center">
-<img src="figs/pngs/matching_casedeaths_x1.png" alt="county_level" width="95%"/>
-</p>
-
-**<p align="center">Counties with IHEs with primarily in-person vs. primarily online Fall 2020.**
-
-- - - -
 
 ## Citation
 If you use this data or would like to cite this work:
